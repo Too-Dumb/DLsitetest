@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+<h1>evenMOREcoolersite<h1>
+       <hr>
+</head>
+       <body>    
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/olINAdLIJX0?si=1NSdSgBJIzkQg5JH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<br>
+<image src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzcUwUd3QcEiJdgSvEcGQFxqqOi5u0oJBTxA&s" width="250" height="250">
+<br>
+    <button onclick="window.location.href='thecoolestsite.html'">click for the coolest</button>
+
+       </body>
+</html>
+<!--This is my very first website.-->
